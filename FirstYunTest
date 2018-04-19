@@ -1,0 +1,8 @@
+Have a good news
+let child = {name:'miniminiL'};
+child.father = {name: 'HugeL'};
+child.mother = {name: 'PeaceL'};
+child.createAt = '18.4.4';
+child.firstTry = '16.4.4';
+father.message = {date: today, msg: 'im always aside for you'}
+mother.message = {date: today, msg: 'im trying to live with you'}
